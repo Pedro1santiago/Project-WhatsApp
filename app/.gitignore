@@ -1,0 +1,38 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Build
+/build/
+*/build/
+
+<<<<<<< HEAD
+/build
+
+=======
+>>>>>>> 881c40a (Limpeza com .gitignore - removendo arquivos desnecessários)
+# Log
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Sign-in keys
+*.jks
+*.keystore
+
+# Firebase
+firebase-debug.log
+
+# Node
+node_modules/
+
+# Others
+<<<<<<< HEAD
+.cxx/
+=======
+.cxx/
+>>>>>>> 881c40a (Limpeza com .gitignore - removendo arquivos desnecessários)

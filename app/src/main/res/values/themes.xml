@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Base.Theme.AulaWhatsApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cores principais -->
+        <item name="colorPrimary">@color/primaria</item>
+        <item name="colorPrimaryVariant">@color/primaria</item> <!-- Mantido como mesma cor -->
+        <item name="colorOnPrimary">@color/white</item> <!-- Cor do texto da toolbar -->
+
+        <!-- Cor da barra de status e barra de navegação -->
+        <item name="android:statusBarColor">@color/primaria</item>
+        <item name="android:navigationBarColor">@color/primaria</item>
+
+        <!-- Overflow menu (3 pontinhos) branco -->
+        <item name="actionOverflowButtonStyle">@style/ActionOverflowButton</item>
+    </style>
+
+    <!-- Estilo para deixar o botão de overflow branco -->
+    <style name="ActionOverflowButton" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="tint">@color/white</item>
+    </style>
+
+    <!-- Estilo circular (para imagens de perfil) -->
+    <style name="Circulo">
+        <item name="cornerSize">50%</item>
+    </style>
+
+    <!-- Tema final que é usado no Manifest -->
+    <style name="Theme.AulaWhatsApp" parent="Base.Theme.AulaWhatsApp" />
+</resources>
