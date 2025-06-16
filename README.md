@@ -39,7 +39,7 @@ git clone https://github.com/Pedro1santiago/Project-WhatsApp.git
 2. **Abra o projeto no Android Studio**
 
 3. **Configure o Firebase:**
-<<<<<<< HEAD
+
 
 =======
 
@@ -49,7 +49,7 @@ git clone https://github.com/Pedro1santiago/Project-WhatsApp.git
    - Use o seguinte `applicationId`: `com.pedro.whatsapp`
    - Baixe o arquivo `google-services.json`
    - Coloque esse arquivo dentro da pasta `app/` do projeto
-<<<<<<< HEAD
+
 
 4. **Ative os seguintes serviços do Firebase:**
    - Autenticação por e-mail/senha (Authentication)
@@ -72,7 +72,6 @@ git clone https://github.com/Pedro1santiago/Project-WhatsApp.git
     - Baixe o arquivo `google-services.json`
     - Coloque esse arquivo dentro da pasta `app/` do projeto
 =======
->>>>>>> 1a11b46 (Final commit)
 
 4. **Ative os seguintes serviços do Firebase:**
    - Autenticação por e-mail/senha (Authentication)
@@ -88,7 +87,6 @@ git clone https://github.com/Pedro1santiago/Project-WhatsApp.git
    - Conecte um dispositivo físico ou use um emulador
    - Clique no botão **▶️ Run** no Android Studio
 
-
 ---
 
 > ⚠️ O Firebase é essencial para o app funcionar corretamente.  
@@ -96,10 +94,8 @@ git clone https://github.com/Pedro1santiago/Project-WhatsApp.git
 
 ---
 
-<<<<<<< HEAD
-
 =======
->>>>>>> 1a11b46 (Final commit)
+
 ## 🧹 Projeto Anterior
 
 Este projeto é uma evolução do meu mini-projeto de chat feito com JavaScript, HTML e CSS.  
@@ -115,21 +111,10 @@ Nos próximos projetos, pretendo aplicar recursos mais avançados que estou estu
 - **Jetpack Compose** para interfaces modernas no Android
 
 ---
-
-<<<<<<< HEAD
 =======
 
-=======
->>>>>>> 1a11b46 (Final commit)
 ## 👨‍💻 Autor
 
 Desenvolvido por **Pedro Santiago**  
 🔗 [GitHub](https://github.com/Pedro1santiago)
-<<<<<<< HEAD
 
-
-
-
-
-=======
->>>>>>> 1a11b46 (Final commit)
